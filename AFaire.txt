@@ -1,0 +1,5 @@
+_Polish le déplacement (FAIT pas en teleport + FAIT animations + FAIT VFX)
+_FAIT Rajouter UI qui apparaît au bout d'un certains temps d'inactivité (montre les inputs)
+_FAIT Rajouter UI reset (demande si on est sûr de reset)
+_FAIT Polish UI inputs (animations + design)
+_FAIT Polish UI reset (animations + design)
